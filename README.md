@@ -1,10 +1,10 @@
 # portfolio
-Desigin a portfolio for my product-led content writing. 
+Design a portfolio for my product-led content writing.
 Titus Adeolu Adekunle
 
-[About](#about) [Writing](#bylines) [Experience](#experience) [Samples](#samples) [Contact](#contact)
+[About](#about) [Writing](#bylines) [Experience](#experience) [Samples](#samples) [Services](#services) [Contact](#contact)
 
-Content writer & editor
+Product-led content writer and strategist
 
 # Product-led content writer and strategist
 
@@ -154,4 +154,4 @@ Tell me what you're working on and who it's for. I'll reply by email, usually wi
 
 adekunletitusadeolu@gmail.com
 
-© 2026 Titus Adeolu Adekunle · Content writer & editor
+© 2026 Titus Adeolu Adekunle · Product-led content writer and strategist
