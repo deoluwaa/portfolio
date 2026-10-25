@@ -439,14 +439,23 @@ img {
   background: rgba(8, 13, 21, 0.9);
 }
 
-.publication-links p {
-  margin: 0 0 0.8rem;
+.publication-links details {
+  margin: 0;
+}
+
+.publication-links summary {
+  cursor: pointer;
   font-weight: 700;
+  list-style: none;
+}
+
+.publication-links summary::-webkit-details-marker {
+  display: none;
 }
 
 .publication-links ul {
   list-style: disc;
-  margin: 0;
+  margin: 0.8rem 0 0;
   padding-left: 1.2rem;
   color: var(--muted);
   display: grid;

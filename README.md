@@ -16,9 +16,9 @@ Titus Adeolu Adekunle
 
 ## The writer behind the words
 
-Product-led content writer with a medical background.
+A product-led content writer and strategist with seven years of experience in freelance writing and in-house content marketing.
 
-Seven years of experience in freelance writing and in-house content marketing. I combine analytical thinking, strong research skills, and clear communication to create engaging, informative, and audience-focused content. My experience spans healthcare, hospitality, tourism, finance, business, and entertainment, covering web and blog articles, press features, books, scientific papers, academic essays, product reviews, video scripts, and other long-form and short-form content. Most recently I wrote 500+ SEO articles at Grey (YC W22) on international payments, banking, and cross-border finance.
+I combine analytical thinking, strong research skills, and clear communication to create engaging, informative, and audience-focused content. My experience spans healthcare, hospitality, tourism, finance, business, and entertainment, covering web and blog articles, press features, books, scientific papers, academic essays, product reviews, video scripts, and other long-form and short-form content. Most recently I wrote 500+ SEO articles at Grey (YC W22) on international payments, banking, and cross-border finance.
 
 ## Writing at Grey
 
@@ -26,7 +26,12 @@ A selection of published guides from my time at Grey (YC W22), covering fintech,
 
 [Freelancer · Grey.co · July 2026 How to find freelance clients on LinkedIn: Proven strategies A practical playbook for landing clients on LinkedIn: profile positioning, a repeatable outreach routine, message templates that get replies, and the content that builds credibility. Read on Grey ↗](https://grey.co/blog/find-freelance-clients-linkedin) [Freelancer · Grey.co · July 2026 How to write a freelance contract: Template and key clauses Breaks down the clauses every freelance agreement needs, including scope, kill fees, IP transfer timing, and currency terms, with a full copy-and-adapt contract template. Read on Grey ↗](https://grey.co/blog/freelance-contract-guide) [Freelancer · Grey.co · March 2026 Best way to receive USD in Nigeria without PayPal Weighs five real options for Nigerian freelancers receiving international payments, with actual fees, settlement times, and a decision framework by client type. Read on Grey ↗](https://grey.co/blog/best-way-to-receive-usd-in-nigeria-without-paypal) [Business · Grey.co · August 2026 Do you need a business bank account? Rules and benefits Explains when a separate business account is legally required by entity structure, the real costs and benefits, and how to choose one. Read on Grey ↗](https://grey.co/blog/do-you-need-business-bank-account) [Creators · Grey.co · 2025, updated 2026 How to earn from TikTok in Nigeria without a UK bank account A guide for Nigerian creators on collecting Creator Fund and brand-deal payouts without a foreign bank account, walking through account setup end to end. Read on Grey ↗](https://grey.co/blog/earn-from-tiktok-in-nigeria-without-a-uk-bank-account) [Travel · Grey.co · January 2026 Romantic destinations for remote-working couples A roundup of getaways for couples who still need reliable Wi-Fi, from Madeira's cliffside sunsets to Kyoto's quiet temple streets, with a practical note on managing money on the move. Read on Grey ↗](https://grey.co/blog/romantic-destinations-for-remote-working-couples)
 
-Also published on Grey: [10 best countries for digital nomads](https://grey.co/blog/best-countries-digital-nomads), [what is an offshore bank account](https://grey.co/blog/what-is-an-offshore-account), [7 top apps to open a USD account in Nigeria](https://grey.co/blog/best-dollar-account-apps-in-nigeria-compared), and [how to get an instant USD debit card in Algeria](https://grey.co/blog/how-to-get-an-instant-usd-debit-card-in-algeria).
+Also published on Grey:
+
+- [10 best countries for digital nomads](https://grey.co/blog/best-countries-digital-nomads)
+- [what is an offshore bank account](https://grey.co/blog/what-is-an-offshore-account)
+- [7 top apps to open a USD account in Nigeria](https://grey.co/blog/best-dollar-account-apps-in-nigeria-compared)
+- [how to get an instant USD debit card in Algeria](https://grey.co/blog/how-to-get-an-instant-usd-debit-card-in-algeria)
 
 ## Experience and education
 
@@ -93,10 +98,12 @@ Earlier freelance work across formats, available as downloadable PDFs. Don't see
 - [Construction company: Website copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_62cac4f91e024a7b9f0dc22a2345b3fd.pdf)
 - [Community Services and Health Training: Web copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_5e2dc0d248924e8a945a0af9523ad88b.pdf)
 
-### Academic writing
+### Academic & technical writing
 
 - [Master's thesis proposal](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_238cf14afb0d41648a355e990cb223d0.pdf)
 - [Pharmacology research: MDMA](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_98e336c7cb5744a8932bf694208e3081.pdf)
+- [Barrier management: Technical guide](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_ec0f1d77a9664180bd5314b5e59ecea7.pdf)
+- [AWS three-tier architecture: Technical writeup](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_e5b4ab6941eb4098a9dacce9e12a5465.pdf)
 
 ### Books
 
@@ -105,7 +112,7 @@ Earlier freelance work across formats, available as downloadable PDFs. Don't see
 
 ### Blog articles
 
-- [Media company: Blog samples](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_c799d40844a7466e994a8b1ca3846b20.pdf)
+- [Media company: Blog samples](https://drive.google.com/drive/folders/1nMk5uCLOu5_7bXSVTxS1_uVkqg7wkFlF?usp=sharing)
 
 ### Vlog scripts
 
@@ -117,11 +124,6 @@ Earlier freelance work across formats, available as downloadable PDFs. Don't see
 - [Vector design apps: Comparison review](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_f4984b29b8474d5ba99df30a30b0de1e.pdf)
 - [Wireless headsets: Product review](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_5979c62f0d004f69ba52a28ffc71bd6c.pdf)
 - [Best saw blade for bamboo flooring: Product review](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_df086d1d54ad4c839f0504d63d3b6114.pdf)
-
-### Technical writing
-
-- [Barrier management: Technical guide](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_ec0f1d77a9664180bd5314b5e59ecea7.pdf)
-- [AWS three-tier architecture: Technical writeup](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_e5b4ab6941eb4098a9dacce9e12a5465.pdf)
 
 ## What I can do for you
 
