@@ -113,6 +113,7 @@ Earlier freelance work across formats, available as downloadable PDFs. Don't see
 ### Blog articles
 
 - [Media company: Blog samples](https://drive.google.com/drive/folders/1nMk5uCLOu5_7bXSVTxS1_uVkqg7wkFlF?usp=sharing)
+- [Medical and health article samples](https://drive.google.com/drive/folders/1khiguGeZmH6ElYqw8kBQbByv8k0Bd-C3?usp=drive_link)
 
 ### Vlog scripts
 
