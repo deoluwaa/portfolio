@@ -95,13 +95,13 @@ Earlier freelance work across formats, available as downloadable PDFs. Don't see
 - [Janitorial service: Website copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_31d6e1fe45814f3b9604515e34655c3c.pdf)
 - [Media company: Website copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_2d2de807876940ae8221710ce22aeaf8.pdf)
 - [Crypto game: Landing page copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_be2002cacd624263b0ac36e90186b09f.pdf)
-- [Construction company: Website copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_62cac4f91e024a7b9f0dc22a2345b3fd.pdf)
+- [Acquisitions LLC: Website copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_62cac4f91e024a7b9f0dc22a2345b3fd.pdf)
 - [Community Services and Health Training: Web copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_5e2dc0d248924e8a945a0af9523ad88b.pdf)
 
 ### Academic & technical writing
 
 - [Master's thesis proposal](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_238cf14afb0d41648a355e990cb223d0.pdf)
-- [Pharmacology research: MDMA](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_98e336c7cb5744a8932bf694208e3081.pdf)
+- [Dossier for MDMA](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_98e336c7cb5744a8932bf694208e3081.pdf)
 - [Barrier management: Technical guide](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_ec0f1d77a9664180bd5314b5e59ecea7.pdf)
 - [AWS three-tier architecture: Technical writeup](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_e5b4ab6941eb4098a9dacce9e12a5465.pdf)
 
