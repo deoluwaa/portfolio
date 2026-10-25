@@ -91,24 +91,21 @@ Earlier freelance work across formats, available as downloadable PDFs. Don't see
 - [Media company: Website copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_2d2de807876940ae8221710ce22aeaf8.pdf)
 - [Crypto game: Landing page copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_be2002cacd624263b0ac36e90186b09f.pdf)
 - [Construction company: Website copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_62cac4f91e024a7b9f0dc22a2345b3fd.pdf)
+- [Community Services and Health Training: Web copy](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_5e2dc0d248924e8a945a0af9523ad88b.pdf)
 
 ### Academic writing
 
 - [Master's thesis proposal](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_238cf14afb0d41648a355e990cb223d0.pdf)
-- [Literature review sample](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_05ce827a7fe74ec9a23931cd4d1b759b.pdf)
-- [Certification case study](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_5e2dc0d248924e8a945a0af9523ad88b.pdf)
 - [Pharmacology research: MDMA](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_98e336c7cb5744a8932bf694208e3081.pdf)
 
 ### Books
 
-- [E-commerce guide: Starting an online business in China](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_8979e50d85454091bc2ba26efbbb2972.pdf)
+- [Starting an online business in China](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_8979e50d85454091bc2ba26efbbb2972.pdf)
 - [Business restructuring guide](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_f0782c46fb394ade926fb2920d6db0fe.pdf)
 
 ### Blog articles
 
-- [Forex trading: Blog article](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_988d31fe5401406eb9179a67beb31817.pdf)
 - [Media company: Blog samples](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_c799d40844a7466e994a8b1ca3846b20.pdf)
-- [Copy trading: Blog article](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_a6a1f4734a054f4b89ffc559728adbe5.pdf)
 
 ### Vlog scripts
 
@@ -118,7 +115,7 @@ Earlier freelance work across formats, available as downloadable PDFs. Don't see
 ### Product reviews
 
 - [Vector design apps: Comparison review](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_f4984b29b8474d5ba99df30a30b0de1e.pdf)
-- [Wireless headset: Product review](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_5979c62f0d004f69ba52a28ffc71bd6c.pdf)
+- [Wireless headsets: Product review](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_5979c62f0d004f69ba52a28ffc71bd6c.pdf)
 - [Best saw blade for bamboo flooring: Product review](https://2576a780-400b-4d87-8ac1-bfe70f82f443.filesusr.com/ugd/6cc49d_df086d1d54ad4c839f0504d63d3b6114.pdf)
 
 ### Technical writing
