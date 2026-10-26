@@ -444,9 +444,26 @@ img {
 }
 
 .publication-links summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   cursor: pointer;
   font-weight: 700;
   list-style: none;
+}
+
+.publication-links summary::after {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  content: "";
+  transform: rotate(45deg) translateY(-0.15rem);
+  transition: transform 0.2s ease;
+}
+
+.publication-links details[open] summary::after {
+  transform: rotate(225deg) translateY(-0.15rem);
 }
 
 .publication-links summary::-webkit-details-marker {
