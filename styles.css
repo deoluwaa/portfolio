@@ -453,6 +453,8 @@ img {
 }
 
 .publication-links summary::after {
+  display: block;
+  flex: 0 0 0.55rem;
   width: 0.55rem;
   height: 0.55rem;
   border-right: 2px solid currentColor;
